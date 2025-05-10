@@ -1,0 +1,13 @@
+# Device details for ssh connectivity
+devices:
+  iosxr1:
+    type: <device_type>
+    os: iosxr
+    credentials:
+      default:
+        username: <username>
+        password: <passwd>
+    connections:
+      vty:
+        protocol: ssh
+        ip: <device_ip>
