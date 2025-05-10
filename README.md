@@ -7,9 +7,6 @@ This project demonstrates how to automate network tasks using [PyATS](https://de
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setup Instructions](#setup-instructions)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [References](#references)
 
 ---
 
