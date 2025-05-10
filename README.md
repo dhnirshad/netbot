@@ -37,8 +37,7 @@ source .netbot/bin/activate
 ### Step 3: Upgrade Pip and Install Dependencies
 ```bash
 python -m pip install --upgrade pip setuptools wheel
-pip install --no-cache-dir 'pyats\[full\]'
-pip install ipython
+pip install --no-cache-dir "pyats[full]"
 ```
 
 
